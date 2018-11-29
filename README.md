@@ -8,7 +8,7 @@ With the recent spike in cryptocurrency' popularity throughout the world, we hav
 The front-end aspects of Crypto Daily were created using Handlebars Javascript framework for dynamic page rendering, JQuery for functionality, and CSS3 for styling. The back-end server of the application was written using NodeJS with Express for middleware routing and effecient data throughput. All of the data that Crypto Daily uses comes directly from API (XHR) requests to https://www.cryptocompare.com/ in the form of JSON objects. Crypto Daily also utilizes a MongoDB data store for maintaining the influx of cryptocurrency data as well as robustness and integrity of the application itself.
 
 # Languages Used
-*Front-end webpage built using HTML (Handlebars), Javascript (JQuery), & CSS3
+*Front-end webpage built using HTML (Handlebars), Javascript (JQuery, XHR [JSON] API Requests), & CSS3
 *Back-end server written in NodeJS using Express for middleware routing
 *Back-end datastore implemented using MongoDB document oriented database
 
